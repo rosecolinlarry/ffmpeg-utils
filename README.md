@@ -1,4 +1,4 @@
-# PowerShell FFMPEG Scrips
+# PowerShell FFmpeg Scrips
 
 Utilities/extension scripts I use with ffmpeg. Helpful for folks using Windows machines.
 
